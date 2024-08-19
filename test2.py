@@ -1,1 +1,1 @@
-print("Hadawdawdello world")naiudhuiawhdiuawhduihi
+print("hello world")
