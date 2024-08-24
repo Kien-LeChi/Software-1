@@ -1,7 +1,10 @@
 print("This program diagnose your hemoglobin level")
+
 gen = str(input("Enter your gender (F / M): "))
 if gen != 'F' and gen != 'M' : print("Invalid gender.")
+
 val = float(input("Enter your hemoglobin value: "))
+
 print("Your hemoglobin level is: ", end = "")
 if gen == 'F' :
     if val < 117 : print("LOW")
