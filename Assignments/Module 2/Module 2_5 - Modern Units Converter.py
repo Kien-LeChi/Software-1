@@ -13,7 +13,7 @@ TotalGrams += pound * PoundToLot * LotToGrams
 TotalGrams += lot * LotToGrams
 
 print("The weight in modern units:")
-print(f"{int(TotalGrams / 1000)} kilograms and {TotalGrams % 1000 : .2f} grams.")
+print(f"{int(TotalGrams / 1000)} kilograms and {TotalGrams % 1000 :.2f} grams.")
 
 
 
