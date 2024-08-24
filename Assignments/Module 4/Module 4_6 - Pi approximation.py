@@ -6,4 +6,4 @@ for i in range(0, TotalPointsGen) :
     x = rand.random()
     y = rand.random()
     if x*x + y*y < 1 : insideCircle += 1
-print(f"Your pi approximation is: {4 * insideCircle/TotalPointsGen : <.10f}")
+print(f"Your pi approximation is: {4 * insideCircle / TotalPointsGen: <.10f}")
