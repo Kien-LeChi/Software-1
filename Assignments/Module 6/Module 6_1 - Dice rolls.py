@@ -1,3 +1,4 @@
+print("This program will roll dices until it get a 6.")
 import random
 def DiceRoll() :
     return random.randint(1,6)
