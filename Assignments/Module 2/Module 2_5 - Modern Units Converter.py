@@ -1,3 +1,4 @@
+print("This program will convert medieval units into kilograms and grams.")
 print("Enter your talents, pounds and lots.")
 talent = float(input("Enter talents: "))
 pound = float(input("Enter pounds: ")) #1 talent = 20 pounds
