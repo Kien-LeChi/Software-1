@@ -1,4 +1,3 @@
-import math
 print("The program will determine the smallest and largest number from the user input")
 
 mini = float('inf')
