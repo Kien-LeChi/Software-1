@@ -1,6 +1,6 @@
 class Car:
     
-    def __init__(self, license, max_speed) :
+    def __init__(self, license = str(), max_speed = float()) :
         self._current_speed = 0
         self._travelled_distance = 0
         self._license = license
@@ -24,5 +24,9 @@ class Car:
 
     def drive(self, hours) :
         self._travelled_distance += hours * self._current_speed
+        print(f"The car has travelled {self._travelled_distance}")
 
-    def
+carr = Car('ABC-123', 300)
+carr._current_speed = 60
+carr.drive(1.5)
+

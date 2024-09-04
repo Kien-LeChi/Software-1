@@ -1,4 +1,5 @@
-print("This program will ask you to enter 5 cities name, and will output them one by one, one per line.")
+print("This program will ask you to enter 5 cities name, "
+      "and will output them one by one, one per line.")
 
 CityList = []
 for i in range(1, 6) :
