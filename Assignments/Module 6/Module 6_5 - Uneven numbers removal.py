@@ -11,5 +11,5 @@ ListLength = int(input("Enter your list length: "))
 print("Now please enter in your number list: ", end = '')
 for i in range(ListLength) :
     TestList.append(int(input()))
-
-print(OddNumbersRemove(TestList))
+print(f"The original list is: {TestList}")
+print(f"The cut-down list is: {OddNumbersRemove(TestList)}")
