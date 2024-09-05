@@ -1,10 +1,11 @@
 class Car:
+    #Task 1
     def __init__(self, license, max_speed) :
         self._current_speed = 0
         self._travelled_distance = 0
         self._license = license
         self._max_speed = max_speed
-
+    #Task 1
 User_RegistrationNumber = input("Enter the license plate: ")
 User_MaximumSpeed = input("Enter the car's maximum speed: ")
 car = Car(User_RegistrationNumber, User_MaximumSpeed)
