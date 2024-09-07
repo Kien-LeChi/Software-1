@@ -2,6 +2,10 @@ print("This program will check whether your input number is prime.")
 
 num = int(input("Enter a number: "))
 
+
+import timeit
+start = timeit.default_timer()
+
 i = 2
 checker = False
 if num == 1 : print("Your number is not a prime.")
@@ -14,3 +18,7 @@ else :
             break
         else : i += 1
     if checker == 0 : print("Your number is prime.")
+
+stop = timeit.default_timer()
+
+print(stop - start)
