@@ -1,0 +1,95 @@
+{
+    "coord": {
+        "lon": 24.7276,
+        "lat": 60.2121
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.92,
+        "feels_like": 21.68,
+        "temp_min": 20.19,
+        "temp_max": 23.09,
+        "pressure": 1015,
+        "humidity": 58,
+        "sea_level": 1015,
+        "grnd_level": 1011
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.81,
+        "deg": 125,
+        "gust": 9.83
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1725882089,
+    "sys": {
+        "type": 2,
+        "id": 37744,
+        "country": "FI",
+        "sunrise": 1725852916,
+        "sunset": 1725901307
+    },
+    "timezone": 10800,
+    "id": 653559,
+    "name": "Kauniainen",
+    "cod": 200
+}
+
+#----------- END OF OUTPUT -----------#
+
+{
+    "coord": {
+        "lon": 24.7276,
+        "lat": 60.2121
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.92,
+        "feels_like": 21.68,
+        "temp_min": 20.19,
+        "temp_max": 23.09,
+        "pressure": 1015,
+        "humidity": 58,
+        "sea_level": 1015,
+        "grnd_level": 1011
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.81,
+        "deg": 125,
+        "gust": 9.83
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1725881799,
+    "sys": {
+        "type": 2,
+        "id": 37744,
+        "country": "FI",
+        "sunrise": 1725852916,
+        "sunset": 1725901307
+    },
+    "timezone": 10800,
+    "id": 660129,
+    "name": "Espoo",
+    "cod": 200
+}
