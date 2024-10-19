@@ -1,47 +1,47 @@
 {
     "coord": {
-        "lon": 24.7276,
-        "lat": 60.2121
+        "lon": 109.1833,
+        "lat": 12.25
     },
     "weather": [
         {
-            "id": 800,
-            "main": "Clear",
-            "description": "clear sky",
-            "icon": "01d"
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 21.92,
-        "feels_like": 21.68,
-        "temp_min": 20.19,
-        "temp_max": 23.09,
-        "pressure": 1015,
-        "humidity": 58,
-        "sea_level": 1015,
-        "grnd_level": 1011
+        "temp": 32,
+        "feels_like": 38.33,
+        "temp_min": 32,
+        "temp_max": 32,
+        "pressure": 1006,
+        "humidity": 64,
+        "sea_level": 1006,
+        "grnd_level": 997
     },
     "visibility": 10000,
     "wind": {
-        "speed": 5.81,
-        "deg": 125,
-        "gust": 9.83
+        "speed": 3.73,
+        "deg": 99,
+        "gust": 3.08
     },
     "clouds": {
-        "all": 0
+        "all": 100
     },
-    "dt": 1725882089,
+    "dt": 1726034426,
     "sys": {
-        "type": 2,
-        "id": 37744,
-        "country": "FI",
-        "sunrise": 1725852916,
-        "sunset": 1725901307
+        "type": 1,
+        "id": 9304,
+        "country": "VN",
+        "sunrise": 1726007564,
+        "sunset": 1726051644
     },
-    "timezone": 10800,
-    "id": 653559,
-    "name": "Kauniainen",
+    "timezone": 25200,
+    "id": 1572151,
+    "name": "Nha Trang",
     "cod": 200
 }
 
@@ -49,47 +49,47 @@
 
 {
     "coord": {
-        "lon": 24.7276,
-        "lat": 60.2121
+        "lon": 109.1833,
+        "lat": 12.25
     },
     "weather": [
         {
-            "id": 800,
-            "main": "Clear",
-            "description": "clear sky",
-            "icon": "01d"
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 21.92,
-        "feels_like": 21.68,
-        "temp_min": 20.19,
-        "temp_max": 23.09,
-        "pressure": 1015,
-        "humidity": 58,
-        "sea_level": 1015,
-        "grnd_level": 1011
+        "temp": 32,
+        "feels_like": 38.33,
+        "temp_min": 32,
+        "temp_max": 32,
+        "pressure": 1006,
+        "humidity": 64,
+        "sea_level": 1006,
+        "grnd_level": 997
     },
     "visibility": 10000,
     "wind": {
-        "speed": 5.81,
-        "deg": 125,
-        "gust": 9.83
+        "speed": 3.73,
+        "deg": 99,
+        "gust": 3.08
     },
     "clouds": {
-        "all": 0
+        "all": 100
     },
-    "dt": 1725881799,
+    "dt": 1726034542,
     "sys": {
-        "type": 2,
-        "id": 37744,
-        "country": "FI",
-        "sunrise": 1725852916,
-        "sunset": 1725901307
+        "type": 1,
+        "id": 9304,
+        "country": "VN",
+        "sunrise": 1726007564,
+        "sunset": 1726051644
     },
-    "timezone": 10800,
-    "id": 660129,
-    "name": "Espoo",
+    "timezone": 25200,
+    "id": 1565654,
+    "name": "Thon Dien Ha",
     "cod": 200
 }
